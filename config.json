@@ -1,0 +1,9 @@
+
+
+
+{
+	"ip":"Stresssmpp.aternos.me",
+	"port": "25565",
+	"name": "botserver",
+	"auto-night-skip":"false"
+}
